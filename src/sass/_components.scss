@@ -1,0 +1,40 @@
+.nav-header {
+    font-family: $base-font-family;
+}
+
+.chart-item {
+    width: 25rem;
+}
+
+.add-btn {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+    font-weight: 400;
+
+}
+
+.search-bar {
+    min-width: 150px;
+}
+
+.add-new {
+    width: 100%;
+    height: 70px;
+}
+
+.add-new-card {
+    max-width: 500px;
+}
+
+.description-item {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+}
